@@ -1,4 +1,4 @@
-# mse-grupo1
+# Microprocessadores e Sistemas Embebidos
 
 Grupo 1:
 
